@@ -1,4 +1,4 @@
-<h1> My Leetcode Solutions </h1>
+<h1> My Leetcode Solutions </h1
 
 | No    | Problem Title | Status  | Solution |
 |-----|-------------------------------------------------|------------|------------------------------------------|
@@ -15,7 +15,7 @@
 | 11 | <a href="https://github.com/Gtindi/myLeetcodeSolutions/tree/main/String/Isomorphic_strings">Isomorphic strings</a> | <img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/>  | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/String/Isomorphic_strings/solution.py">View code</a> |
 | 12 | <a href="https://github.com/Gtindi/myLeetcodeSolutions/tree/main/Linked_List/Middle_of_the_linked_list">Middle of the Linked List</a> | <img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/>  | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Linked_List/Middle_of_the_linked_list/solution.py">View code</a> |
 | 13 | <a href="https://github.com/Gtindi/myLeetcodeSolutions/tree/main/Linked_List/Linked_list_cycle_2">Linked List Cycle 2</a> | <img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/>  | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Linked_List/Linked_list_cycle_2/solution.py">View code</a> |
-| 14 | <a href="">Best time to buy and sell stock</a> | <img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/>  | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Greedy/Stock/solution.py">View code</a> |
+| 14 | <a href="https://github.com/Gtindi/myLeetcodeSolutions/tree/main/Greedy/Stock">Best time to buy and sell stock</a> | <img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/>  | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Greedy/Stock/solution.py">View code</a> |
 | 15 | <a href="">Longest Palindrome</a> | <img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/>  | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Greedy/Longest_palindrome/solution.py">View code</a> |
 | 16 | <a href="https://github.com/Gtindi/myLeetcodeSolutions/tree/main/Random_Problems/Two_Sum">Two sum</a> |<img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/>  | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Random_Problems/Two_Sum/solution.py">View code</a> |
 | 17 | <a href="">Palindrome Number</a> |<img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/>  | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Greedy/Palindrome_Number/solution.py">View code</a> |
